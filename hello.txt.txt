@@ -1,2 +1,23 @@
 Hello GitHub! 我是 yaoling。
 2026年8月15日，我开始了自己的代码之旅。
+完成了课程设计
+打开你的课程设计项目文件夹，在文件夹空白处右键 → Open Git Bash here，然后依次输入三行命令：
+git add .→ “把文件夹里所有新改动的文件都打包”
+git commit -m "..."“给这个包起个名字，叫‘...’”
+git push“把这个包上传到 GitHub 网站上去”
+改了一个 Bug
+在这个项目文件夹里，右键 → Open Git Bash here，输入同样的三行命令：
+git add .
+git commit -m "修复了...的问题"
+git push
+学到新东西，想记录下来
+打开 E:\GitHubProjects\hello-world 文件夹
+在里面新建一个文本文档，取名 Java_笔记.md（.md 是 Markdown 文件，用来写带格式的笔记）
+把你想记的东西写进去，保存
+在文件夹空白处右键 → Open Git Bash here
+输入三行命令：
+git add .
+git commit -m "添加了...笔记"
+git push
+展示
+https://github.com/yaoling716/hello-world
